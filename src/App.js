@@ -11,7 +11,7 @@ import Notfound from "./Component/Notfound/Notfound";
 import Orders from "./Component/Orders/Orders";
 import ForgetPassword from "./Component/ForgetPassword/ForgetPassword";
 import Productdetails from "./Component/Productdetails/Productdetails";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import UserContextProvider from "./Context/UserContext";
 import ProtectedRoute from "./Component/ProtectedRoute/ProtectedRoute";
 import { QueryClient, QueryClientProvider } from "react-query";
@@ -25,7 +25,7 @@ import ConterContextProvider from "./Context/CounterContext";
 
 const queryClient = new QueryClient();
 
-let routers = createBrowserRouter([
+let routers = createHashRouter([
   {
     path: "/",
     element: <Layout />,
