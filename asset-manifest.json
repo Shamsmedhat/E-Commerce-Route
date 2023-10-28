@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commerce/static/css/main.dacc89a4.css",
-    "main.js": "/E-Commerce/static/js/main.72602c0e.js",
+    "main.js": "/E-Commerce/static/js/main.9b1ff1d9.js",
     "static/media/slider-2.jpeg": "/E-Commerce/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
     "static/media/fa-solid-900.ttf": "/E-Commerce/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/slider-image-1.jpeg": "/E-Commerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
@@ -11,6 +11,7 @@
     "static/media/grocery-banner-2.jpeg": "/E-Commerce/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
     "static/media/fa-solid-900.woff2": "/E-Commerce/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/fa-brands-400.woff2": "/E-Commerce/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/E-Commerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
     "static/media/MasterCard_Logo.svg.webp": "/E-Commerce/static/media/MasterCard_Logo.svg.cbdfb6078b7efff912d4.webp",
     "static/media/fa-regular-400.ttf": "/E-Commerce/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
     "static/media/PayPal-Logo.wine.png": "/E-Commerce/static/media/PayPal-Logo.wine.f709e1f3e5c9b55bed81.png",
@@ -28,10 +29,10 @@
     "static/media/slick.woff": "/E-Commerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/E-Commerce/index.html",
     "main.dacc89a4.css.map": "/E-Commerce/static/css/main.dacc89a4.css.map",
-    "main.72602c0e.js.map": "/E-Commerce/static/js/main.72602c0e.js.map"
+    "main.9b1ff1d9.js.map": "/E-Commerce/static/js/main.9b1ff1d9.js.map"
   },
   "entrypoints": [
     "static/css/main.dacc89a4.css",
-    "static/js/main.72602c0e.js"
+    "static/js/main.9b1ff1d9.js"
   ]
 }
